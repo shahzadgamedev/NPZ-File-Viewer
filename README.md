@@ -19,7 +19,7 @@ A Python tool to explore and visualize NumPy .npz files. This tool helps you und
   - Heatmaps
   - Scatter plots with customizable X/Y dimensions
 - Support for large arrays with automatic sampling
-
+![image](https://github.com/user-attachments/assets/f7e82a24-d6df-4c52-8434-666caf559b9d)
 ## Requirements
 
 - Python 3.6+
@@ -41,6 +41,7 @@ The data table provides a paginated view of your array data:
 - Navigate between pages using the pagination controls
 - Export the entire array to a CSV file for further analysis
 - For large arrays, the data is automatically paginated (50 rows per page)
+![image](https://github.com/user-attachments/assets/a0511301-c465-4cb2-a754-071da0973224)
 
 ### Using the Dimension Selector
 
@@ -50,6 +51,9 @@ When using scatter plots, you can select which dimensions to plot on the X and Y
 2. Use the X and Y dropdowns to select dimensions
 3. For 2D arrays, the numbers correspond to the column indices
 4. For 1D arrays, you can choose between "index" and "value"
+
+![image](https://github.com/user-attachments/assets/dbb51ae0-4853-4e44-b715-5e96a72e638c)
+
 
 ## Tips
 
